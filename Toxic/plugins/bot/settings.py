@@ -788,8 +788,9 @@ async def vote_change(client, CallbackQuery, _):
 
         return
 
-@app.on_callback_query(filters.regex("gib_source"))
-async def gib_repo_callback(_, callback_query):
+@app.on_callback_query(filters.regex("gib_source") & ~BANNED_USERS)
+@languageCB
+async def support(client, CallbackQuery, _):
     await CallbackQuery.edit_message_text(
             text="𝖠𝖡𝖮𝖴𝖳 𝖢𝖧𝖮𝖴𝖣𝖧𝖠𝖱𝖸 🔥", 
             reply_markup=InlineKeyboardMarkup(
