@@ -797,14 +797,12 @@ async def gib_repo_callback(_, callback_query):
                    [
                        InlineKeyboardButton(
                            text="𝖠𝖻𝗈𝗎𝗍", url="https://t.me/officialBotTeam",
-                        ),
-                   ]
-                   [  
+                        ),  
                        InlineKeyboardButton(
                           text="𝖡𝖺𝖼𝗄", callback_data=f"settingsback_helper",
                        ),
                    ],
-                ]
+                ],
             ),
         )
 
