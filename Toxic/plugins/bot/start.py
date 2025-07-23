@@ -88,7 +88,7 @@ async def start_pm(client, message: Message, _):
                 "CAACAgUAAxkBAAEO-r9ofhl9UwhDzvXyDxohWDCxTvWPUwAC4gsAApy2kFcqc-w_yX7BbTYE"),
         await message.reply_video(
             video="https://ar-hosting.pages.dev/1753090765686.mp4",
-            caption=_["━━━━━━━━━━━━━━━━━━━━\n\n💥 ʜᴇʟʟᴏ, ᴍᴇ ɪs Qᴜᴇᴇɴ ᴜʟᴛʀᴀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴄʀᴇᴀᴛᴇʀ    : [𝐃𝐚𝐧𝐠𝐞𝐫 Choudhary](https://t.me/ABOUT_CHOUDHARY)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Qᴜᴇᴇɴ sᴇʀᴠᴇʀ](https://t.me/QN_Bot_Updates)┓\n┣★ sᴜᴘᴘᴏʀᴛ › : [Qᴜᴇᴇɴ ᴄʜᴀᴛ](https://t.me/QN_Team_support)\n┣★ Qᴜᴇᴇɴ_ɴᴇᴛᴡᴏʀᴋ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/The_Friends_Chatting)\n┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/D4nGeR_0pBolte) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━"].format(message.from_user.mention, app.mention),
+            caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
         )
         if await is_on_off(2):
