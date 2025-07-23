@@ -111,3 +111,7 @@ sudo apt install tmux && tmux
 ```bash
 bash start
 ```
+
+
+
+"━━━━━━━━━━━━━━━━━━━━━━━━\n\n💥 ʜᴇʟʟᴏ, ᴍᴇ ɪs Qᴜᴇᴇɴ ᴜʟᴛʀᴀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ\nʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs🌼 ..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴄʀᴇᴀᴛᴇʀ    : [𝐃𝐚𝐧𝐠𝐞𝐫 Choudhary](https://t.me/ABOUT_CHOUDHARY)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Qᴜᴇᴇɴ sᴇʀᴠᴇʀ](https://t.me/QN_Bot_Updates)┓\n┣★ sᴜᴘᴘᴏʀᴛ › : [Qᴜᴇᴇɴ ᴄʜᴀᴛ](https://t.me/QN_Team_support)\n┣★ Qᴜᴇᴇɴ_ɴᴇᴛᴡᴏʀᴋ › : [ɴᴇᴛᴡᴏʀᴋ](https://t.me/The_Friends_Chatting)\n┣★ ʜᴇʟᴘ › : ɴᴇᴇᴅ ʜᴇʟᴘ ʀᴜɴ /help\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/D4nGeR_0pBolte) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━"
