@@ -1,6 +1,6 @@
-<h1 align="center"><b>𝘼𝙡𝙚𝙭𝙖 𝙈𝙪𝙨𝙞𝙘</b></h1>
+<h1 align="center"><b>𝖳𝗈𝗑𝗂𝖼 𝖡𝗈𝗍</b></h1>
 
-### 💻 ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ɢᴜɪᴅᴇ ᴏɴ ʟᴏᴄᴀʟ sᴇʀᴠᴇʀ ᴏʀ ᴠᴘs 🗄️
+### 💻 𝖳𝗈𝗑𝗂𝖼 𝖡𝗈𝗍 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ɢᴜɪᴅᴇ ᴏɴ ʟᴏᴄᴀʟ sᴇʀᴠᴇʀ ᴏʀ ᴠᴘs 🗄️
 <br>
 <details>
 <summary><strong>Ubuntu 20.04 / 22.04 Setup</strong></summary>
@@ -24,7 +24,7 @@ sudo pip3 install -U pip
 
 **4. Clone the Repository**
 ```bash
-git clone https://github.com/uDToxin/Alexa && cd Alexa
+git clone https://github.com/BtwUnnati/Toxic && cd Toxic
 ```
 
 **5. Install Python Requirements**
@@ -80,7 +80,7 @@ sudo pip3 install -U pip
 
 **4. Clone the Repository**
 ```bash
-git clone https://github.com/uDToxin/Alexa && cd Alexa
+git clone  https://github.com/BtwUnnati/Toxic && cd Toxic
 ```
 
 **5. Install Python Requirements (Ubuntu 24 specific)**
