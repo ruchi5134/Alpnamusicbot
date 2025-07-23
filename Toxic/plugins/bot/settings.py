@@ -800,20 +800,20 @@ async def gib_repo_callback(_, callback_query):
 @languageCB
 async def support(client, CallbackQuery, _):
     await CallbackQuery.edit_message_text(
-        text="𝘏𝘦𝘳𝘦 𝘈𝘳𝘦 𝘚𝘰𝘮𝘦 𝘐𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘵 𝘓𝘪𝘯𝘬𝘴 🌸",
+        text="𝘏𝘦𝘳𝘦 𝘈𝘳𝘦 𝘚𝘰𝘮𝘦 𝘐𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘵 𝘓𝘪𝘯𝘬𝘴 🔥",
         reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/xscnox",
+                            text="𝖡𝗎𝗒𝗂𝗇𝗀 𝖮𝗅𝖽 𝖦𝖼", url="https://t.me/buyingGroups",
                         ),
                         InlineKeyboardButton(
-                            text="𝖴𝗉𝖽𝖺𝗍𝖾", url="https://t.me/SiyaBotz",
+                            text="𝖴𝗉𝖽𝖺𝗍𝖾𝖲", url="https://t.me/officialBotTeam",
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="𝖢𝗁𝖺𝗍𝗍𝗂𝗇𝗀", url="https://t.me/+IZG7Nyw2Y0diMWE1",
+                            text="𝖲𝗈𝖼𝗂𝖾𝗍𝗒 𝗑𝖣", url="https://t.me/Society_xd",
                         ),
                         InlineKeyboardButton(
                             text="𝖵𝖯𝖲",
