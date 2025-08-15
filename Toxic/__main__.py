@@ -52,7 +52,7 @@ async def init():
     LOGGER("Toxic").info(
         "\x54\x6f\x78\x69\x63\x20\x42\x6f\x74\x20\x53\x74\x61\x72\x74\x65\x64\x20\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6c\x6c\x79\x2e"
     )
-    await idle()
+    await idle(fixed)
     await app.stop()
     await userbot.stop()
     LOGGER("Toxic").info("Stopping Toxic Bot...")
