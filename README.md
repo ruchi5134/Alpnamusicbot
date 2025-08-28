@@ -33,7 +33,7 @@ sudo pip3 install -U pip
 
 **4. Clone the Repository**
 ```bash
-git clone https://github.com/BtwUnnati/Toxic && cd Toxic
+git clone https://github.com/BtwUnnati/12 && cd 12
 ```
 
 **5. Install Python Requirements**
@@ -62,7 +62,7 @@ sudo apt install tmux && tmux
 
 **9. Start the Bot**
 ```bash
-bash start
+bash toxic 
 ```
 </details>
 
@@ -89,7 +89,7 @@ sudo pip3 install -U pip
 
 **4. Clone the Repository**
 ```bash
-git clone  https://github.com/BtwUnnati/Toxic && cd Toxic
+git clone  https://github.com/BtwUnnati/12 && cd 12
 ```
 
 **5. Install Python Requirements (Ubuntu 24 specific)**
@@ -118,8 +118,9 @@ sudo apt install tmux && tmux
 
 **9. Start the Bot**
 ```bash
-bash start
+bash toxic 
 ```
+
 
 
 
