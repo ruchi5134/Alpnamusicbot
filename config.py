@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ruchi5134/Ruchimusicbot",
+    "https://github.com/ruchi5134/Alpnamusicbot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -64,7 +64,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 API_URL = getenv("API_URL", "https://tgmusic.fallenapi.fun")
 
 # API KEY - here
-API_KEY = getenv("API_KEY", "3be030_1hqsi-OZKqE7OMO3NajvplTbJ6I7lusb")
+API_KEY = getenv("API_KEY", "ef4e80_BwsfbD9PRZGnNH9BKLEFDpgQO_15FVjy")
 
 # For - downloads
 DOWNLOADS_DIR = "downloads"
